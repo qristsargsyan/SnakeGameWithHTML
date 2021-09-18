@@ -1,0 +1,43 @@
+    body {
+        background-color: rgb(211, 228, 248);
+    }
+    
+    a {
+        text-decoration: none;
+    }
+    
+    h1 {
+        font-size: 45px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .register {
+        width: 500px;
+        height: 400px;
+        margin: 0 auto;
+        background-color: rgb(118, 169, 226);
+        margin-top: 150px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+    
+    input {
+        width: 350px;
+        height: 35px;
+        border-radius: 5px;
+        font-size: 20px;
+    }
+    
+    button {
+        width: 150px;
+        height: 35px;
+        border-radius: 5px;
+        font-size: 20px;
+    }
+    
+    button:hover {
+        color: rgb(124, 102, 98);
+        background-color: rgb(159, 194, 235);
+    }
